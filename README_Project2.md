@@ -25,7 +25,7 @@
 ## **Instructions to Run the Project**
 **Input:** The input provided (as command line to your project2) will be of the form:
 ```
-./project2 <numNodes> <topology> <algorithm>
+./ponyproject_2.exe <numNodes> <topology> <algorithm>
 ```
 Where:
 - `numNodes`: Number of actors involved.
@@ -34,7 +34,7 @@ Where:
 
 Example:
 ```
-./project2 10000 full gossip
+./ponyproject_2.exe 10000 full gossip
 ```
 
 **Output:** The program will print the amount of time it took to achieve convergence of the algorithm.
